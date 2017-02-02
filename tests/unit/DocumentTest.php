@@ -1,7 +1,7 @@
 <?PHP
 require_once('src/Api.php'); 
 
-class FeedTest extends \PHPUnit_Framework_TestCase
+class DocumentTest extends \PHPUnit_Framework_TestCase
 {
     protected function setUp()
     {

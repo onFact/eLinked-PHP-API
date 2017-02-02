@@ -1,7 +1,7 @@
 <?PHP
 require_once('src/Api.php'); 
 
-class FeedTest extends \PHPUnit_Framework_TestCase
+class AuthTest extends \PHPUnit_Framework_TestCase
 {
     protected function setUp()
     {
