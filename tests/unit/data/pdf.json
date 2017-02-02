@@ -1,0 +1,17 @@
+{
+    "document": {
+        "document_type": "Invoice",
+        "supplier": {
+            "name": "MR VAN GYSEGHEM, KEVIN",
+            "street": "LINDENDRIES",
+            "additional_street_name": "5",
+            "postal_zone": "1730",
+            "city": "ASSE",
+            "country": "BE",
+            "vat_number": "BE0837455735",
+            "iban": "BE42652817910954",
+            "bic": "HBKA BE 22"
+        },
+        "date": "2017-02-02"
+    }
+}

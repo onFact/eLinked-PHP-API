@@ -1,0 +1,12 @@
+{
+    "name": "onfact/elinked-php-api",
+    "require-dev": {
+        "codeception/codeception": "^2.2"
+    },
+    "authors": [
+        {
+            "name": "Kevin Van Gyseghem",
+            "email": "kevin@infinwebs.be"
+        }
+    ]
+}
