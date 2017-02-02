@@ -7,7 +7,7 @@ php:
   - '7.1' 
   
 before_script: 
-    - composer install
+    - composer install --no-dev
 
 script:
     - php vendor/bin/codecept run unit
