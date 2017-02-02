@@ -47,6 +47,7 @@ class Api {
     
     function post($endpoint, $data) {  
         $json = json_encode($data); 
+        
         $ch = curl_init($this->apiRoot . str_replace('.json','',$endpoint) . '.json');                       
         curl_setopt($ch, CURLOPT_CUSTOMREQUEST, "POST");                                                                 
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);                
